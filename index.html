@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mural Virtual - Trabalhos dos Alunos</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+        .card {
+            transition: transform 0.3s;
+        }
+        .card:hover {
+            transform: scale(1.05);
+        }
+    </style>
+</head>
+<body>
+    <div class="container my-4">
+        <h1 class="text-center mb-4">📌 Mural Virtual - Trabalhos dos Alunos</h1>
+        <div id="mural" class="row"></div>
+    </div>
+
+    <script>
+        async function carregarTrabalhos() {
+            try {
+                const resposta = await fetch("trabalhos.json");
+                const trabalhos = await resposta.json();
+                const mural = document.getElementById("mural");
+
+                trabalhos.forEach(trabalho => {
+                    const card = document.createElement("div");
+                    card.classList.add("col-md-4", "mb-4");
+                    card.innerHTML = `
+                        <div class="card shadow-sm">
+                            <div class="card-body">
+                                <h5 class="card-title">${trabalho.titulo}</h5>
+                                <p class="card-text">Aluno: ${trabalho.aluno}</p>
+                                <p class="card-text"><strong>Tema:</strong> ${trabalho.tema}</p>
+                                <a href="${trabalho.link}" class="btn btn-primary" target="_blank">Ver Trabalho</a>
+                            </div>
+                        </div>
+                    `;
+                    mural.appendChild(card);
+                });
+            } catch (error) {
+                console.error("Erro ao carregar os trabalhos:", error);
+            }
+        }
+
+        carregarTrabalhos();
+    </script>
+</body>
+</html>
