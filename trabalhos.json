@@ -88,5 +88,11 @@
         "aluno": "Maria Eduarda Correia de Paiva",
         "tema": "UX/UI Designer",
         "link": "https://drive.google.com/file/d/1Foniio8MfZSvaR8mKWj9MUFZNu6nQr60/view?usp=sharing"
-    }   
+    },
+    {
+        "titulo": "Evolução do front-end: da origem aos dias atuais",
+        "aluno": "Jair Thiago dos Santos Rocha",
+        "tema": "Desenvolvimento Web (Frontend)",
+        "link": "https://docs.google.com/presentation/d/1p90fczuGIM61Cf-QzfWh1z17SnPTmdc5/edit?usp=sharing&ouid=118010955701398559877&rtpof=true&sd=true"
+    }      
 ]
