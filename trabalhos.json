@@ -6,69 +6,75 @@
         "link": "https://drive.google.com/file/d/1KwWdgLpFW_LsnkWUtk_77cbHfCzNao8g/view?usp=sharing"
     },
     {
-        "titulo": "Desenvolvimento Web Moderno",
+        "titulo": "Conceitos essenciais para transformar dados em valor",
         "aluno": "Italo Jefferson Lima dos Santos",
         "tema": "Ciência de Dados e Big Data",
-        "link": "https://exemplo.com/carlos-web"
+        "link": "https://docs.google.com/presentation/d/1UwbcesUzHbSRifPz1uad5dYq79e7gbLX/edit?usp=sharing&ouid=118010955701398559877&rtpof=true&sd=true"
     },
     {
-        "titulo": "Desenvolvimento Web (Backend)",
+        "titulo": "Transformando volume em valor",
+        "aluno": "Italo Jefferson Lima dos Santos",
+        "tema": "Ciência de Dados e Big Data",
+        "link": "https://docs.google.com/presentation/d/1OoVthMdQ0mry1I9juQVsqeRK0ydCRRiJ/edit?usp=sharing&ouid=118010955701398559877&rtpof=true&sd=true"
+    },
+    {
+        "titulo": "Backend: a engrenagem invisível das aplicações modernas",
         "aluno": "Guilherme Kauã Matos da Silva",
-        "tema": "Segurança da Informação",
-        "link": "https://exemplo.com/mariana-seguranca"
+        "tema": "Desenvolvimento Web (Backend)",
+        "link": "https://drive.google.com/drive/folders/1egq9y153I5cOPK9XMr28zNUX45LuCEy3?usp=sharing"
     },
     {
         "titulo": "Segurança da Informação",
         "aluno": "Gustavo do Nascimento Mariano",
         "tema": "Segurança da Informação",
-        "link": "https://exemplo.com/mariana-seguranca"
+        "link": "https://drive.google.com/file/d/1-wLXZ5c4SaNVIACdoOwvU-vN0Bg-P5bM/view?usp=sharing"
     },
     {
         "titulo": "Computação em Nuvem",
         "aluno": "Herbert Carvalho dos Santos",
-        "tema": "Segurança da Informação",
-        "link": "https://exemplo.com/mariana-seguranca"
+        "tema": "Computação em Nuvem",
+        "link": "https://drive.google.com/file/d/1E6pWsRz4iLxOlb7qycgq09GlQE5yCzsR/view?usp=sharing"
     },
     {
         "titulo": "Desenvolvimento Mobile (Android, iOS)",
         "aluno": "José Guylherme dos Santos Melo",
-        "tema": "Segurança da Informação",
-        "link": "https://exemplo.com/mariana-seguranca"
+        "tema": "Desenvolvimento Mobile (Android, iOS)",
+        "link": "https://drive.google.com/file/d/1r12asuGh5MJ7ttpcqyy6yTFybN5uZTlW/view?usp=sharing"
     },
     {
-        "titulo": "Banco de Dados",
+        "titulo": "Banco de Dados: fundamentos e tendências",
         "aluno": "Joseph Nichollas Abreu Cavalcante",
-        "tema": "Segurança da Informação",
-        "link": "https://exemplo.com/mariana-seguranca"
+        "tema": "Banco de Dados",
+        "link": "https://www.youtube.com/watch?v=pCQsxM5z-As"
     },
     {
-        "titulo": "Desenvolvimento Web (Frontend e Backend)",
+        "titulo": "Desenvolvimetno Fullstack",
         "aluno": "Júlio Kennedy dos Santos Silva",
-        "tema": "Segurança da Informação",
-        "link": "https://exemplo.com/mariana-seguranca"
+        "tema": "Desenvolvimento Web (Frontend e Backend)",
+        "link": "https://docs.google.com/presentation/d/1kftglBq0uhnmgeejGm95cJ4ilN4Sx-61/edit?usp=drive_link&ouid=118010955701398559877&rtpof=true&sd=true"
     },
     {
-        "titulo": "Computação Quântica",
+        "titulo": "Computação Quântica: a próxima fronteira da humanidade",
         "aluno": "Marcus Henrique Cruz de Almeida",
-        "tema": "Segurança da Informação",
-        "link": "https://exemplo.com/mariana-seguranca"
+        "tema": "Computação Quântica",
+        "link": "https://drive.google.com/file/d/10LWfQKQVNI70O_Q1faPyCYAG1HJiBPCt/view?usp=sharing"
     },
     {
-        "titulo": "Segurança da Informação",
+        "titulo": "Segurança da informação: evolução, desafios atuais e perspectivas futuras",
         "aluno": "Maylson da Silva Rodrigues",
         "tema": "Segurança da Informação",
-        "link": "https://exemplo.com/mariana-seguranca"
+        "link": "https://drive.google.com/file/d/1QBOL0bDPYEkwq9s9E4v8qYAk-ZVtPSYr/view?usp=sharing"
     },
     {
         "titulo": "DevOps e Engenharia de Software",
         "aluno": "Thalys Eduardo Ferreira de Lima",
-        "tema": "Segurança da Informação",
-        "link": "https://exemplo.com/mariana-seguranca"
+        "tema": "DevOps e Engenharia de Software",
+        "link": "https://drive.google.com/file/d/1S0jUn0GcXtPrmUQ1w_xgPctmUw3Cce-2/view?usp=drive_link"
     },
     {
-        "titulo": "Desenvolvimento de Jogos",
+        "titulo": "Desenvolvimento de video-game e relação com desenvolvimento de The Last Of Us",
         "aluno": "Vinícius Vitor Lima Oliveira",
-        "tema": "Segurança da Informação",
-        "link": "https://exemplo.com/mariana-seguranca"
+        "tema": "Desenvolvimento de Jogos",
+        "link": "https://drive.google.com/file/d/1KiSB1RwB9Gp97_dc4SIl51wf49hJ8j2z/view?usp=sharing"
     }   
 ]
