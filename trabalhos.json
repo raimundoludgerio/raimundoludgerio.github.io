@@ -1,72 +1,72 @@
 [
     {
-        "titulo": "Qualidade de Software",
+        "titulo": "Práticas e estratégias para garantir um software de alto padrão",
         "aluno": "Alice Fernandes Xavier",
-        "tema": "Machine Learning",
-        "link": "https://exemplo.com/ana-ia"
+        "tema": "Qualidade de Software",
+        "link": "https://drive.google.com/file/d/1KwWdgLpFW_LsnkWUtk_77cbHfCzNao8g/view?usp=sharing"
     },
     {
         "titulo": "Desenvolvimento Web Moderno",
-        "aluno": "Gabriel de Souza Nascimento",
-        "tema": "React e APIs",
+        "aluno": "Italo Jefferson Lima dos Santos",
+        "tema": "Ciência de Dados e Big Data",
         "link": "https://exemplo.com/carlos-web"
     },
     {
-        "titulo": "Cibersegurança e Proteção de Dados",
+        "titulo": "Desenvolvimento Web (Backend)",
         "aluno": "Guilherme Kauã Matos da Silva",
         "tema": "Segurança da Informação",
         "link": "https://exemplo.com/mariana-seguranca"
     },
     {
-        "titulo": "Cibersegurança e Proteção de Dados",
+        "titulo": "Segurança da Informação",
         "aluno": "Gustavo do Nascimento Mariano",
         "tema": "Segurança da Informação",
         "link": "https://exemplo.com/mariana-seguranca"
     },
     {
-        "titulo": "Cibersegurança e Proteção de Dados",
+        "titulo": "Computação em Nuvem",
         "aluno": "Herbert Carvalho dos Santos",
         "tema": "Segurança da Informação",
         "link": "https://exemplo.com/mariana-seguranca"
     },
     {
-        "titulo": "Cibersegurança e Proteção de Dados",
+        "titulo": "Desenvolvimento Mobile (Android, iOS)",
         "aluno": "José Guylherme dos Santos Melo",
         "tema": "Segurança da Informação",
         "link": "https://exemplo.com/mariana-seguranca"
     },
     {
-        "titulo": "Cibersegurança e Proteção de Dados",
+        "titulo": "Banco de Dados",
         "aluno": "Joseph Nichollas Abreu Cavalcante",
         "tema": "Segurança da Informação",
         "link": "https://exemplo.com/mariana-seguranca"
     },
     {
-        "titulo": "Cibersegurança e Proteção de Dados",
+        "titulo": "Desenvolvimento Web (Frontend e Backend)",
         "aluno": "Júlio Kennedy dos Santos Silva",
         "tema": "Segurança da Informação",
         "link": "https://exemplo.com/mariana-seguranca"
     },
     {
-        "titulo": "Cibersegurança e Proteção de Dados",
+        "titulo": "Computação Quântica",
         "aluno": "Marcus Henrique Cruz de Almeida",
         "tema": "Segurança da Informação",
         "link": "https://exemplo.com/mariana-seguranca"
     },
     {
-        "titulo": "Cibersegurança e Proteção de Dados",
+        "titulo": "Segurança da Informação",
         "aluno": "Maylson da Silva Rodrigues",
         "tema": "Segurança da Informação",
         "link": "https://exemplo.com/mariana-seguranca"
     },
     {
-        "titulo": "Cibersegurança e Proteção de Dados",
+        "titulo": "DevOps e Engenharia de Software",
         "aluno": "Thalys Eduardo Ferreira de Lima",
         "tema": "Segurança da Informação",
         "link": "https://exemplo.com/mariana-seguranca"
     },
     {
-        "titulo": "Cibersegurança e Proteção de Dados",
+        "titulo": "Desenvolvimento de Jogos",
         "aluno": "Vinícius Vitor Lima Oliveira",
         "tema": "Segurança da Informação",
         "link": "https://exemplo.com/mariana-seguranca"
