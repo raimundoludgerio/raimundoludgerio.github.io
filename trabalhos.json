@@ -6,6 +6,12 @@
         "link": "https://drive.google.com/file/d/1KwWdgLpFW_LsnkWUtk_77cbHfCzNao8g/view?usp=sharing"
     },
     {
+        "titulo": "Documentação da API - RPG Simulator",
+        "aluno": "Gabriel de Souza Nascimento",
+        "tema": "Desenvolvimento de API",
+        "link": "https://docs.google.com/document/d/1APbRSGKhAy_TbPRKU3kC437h4HL6bXwf/edit?usp=sharing&ouid=118010955701398559877&rtpof=true&sd=true"
+    },
+    {
         "titulo": "Conceitos essenciais para transformar dados em valor",
         "aluno": "Italo Jefferson Lima dos Santos",
         "tema": "Ciência de Dados e Big Data",
@@ -76,5 +82,11 @@
         "aluno": "Vinícius Vitor Lima Oliveira",
         "tema": "Desenvolvimento de Jogos",
         "link": "https://drive.google.com/file/d/1KiSB1RwB9Gp97_dc4SIl51wf49hJ8j2z/view?usp=sharing"
+    },   
+    {
+        "titulo": "Projet de UX/UI: Redesign, protótipo e análise de interface",
+        "aluno": "Maria Eduarda Correia de Paiva",
+        "tema": "UX/UI Designer",
+        "link": "https://drive.google.com/file/d/1Foniio8MfZSvaR8mKWj9MUFZNu6nQr60/view?usp=sharing"
     }   
 ]
